@@ -117,7 +117,7 @@ export default function Header() {
                   <ul>
                     <><Link to="/" >Our Accreditation</Link></>
                     <> <Link to="/">Our Story</Link></>
-                    <> <Link to="/">Our team</Link></>
+                    <> <Link to="/OurTeam">Our team</Link></>
                   </ul>
 
                 </div>

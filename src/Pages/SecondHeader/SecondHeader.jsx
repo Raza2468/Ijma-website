@@ -275,12 +275,12 @@ function SecondHeader() {
       <div class="content">
         <h2>Experience the Future of Islamic Banking Today</h2>
         <br />
-        {/* <h3>Join IJMA as an IBFI</h3> */}
+        <h3>Join IJMA as an IBFI</h3>
         <br />
         <ul>
-          <li>Join us on this groundbreaking journey as we reshape the Islamic Banking landscape. Embrace innovation, improve efficiency, and ensure true Sharia compliance with IJMA. Contact us now to learn more about our transformative solution and how it can benefit your organization. Together, let's revolutionize Islamic Banking and Financial Services.</li>
-          {/* <br /> */}
-          {/* <li> We understand the concerns surrounding Islamic Banks' operations, which often closely resemble conventional banking systems controlled by the State Bank of Pakistan. IJMA addresses these major criticisms, providing a viable alternative that aligns with the true spirit of Sharia law.</li> */}
+          <li>Are you tired of the high costs, risks, and inefficiencies associated with traditional Islamic Banking and Financial Services Operations? Look no further! IJMA offers a groundbreaking solution powered by blockchain technology, poised to disrupt how IBFIs conduct transactions and contracts. Addressing Criticisms and Bringing True Sharia Compliance.</li>
+          <br />
+          <li> We understand the concerns surrounding Islamic Banks' operations, which often closely resemble conventional banking systems controlled by the State Bank of Pakistan. IJMA addresses these major criticisms, providing a viable alternative that aligns with the true spirit of Sharia law.</li>
         </ul>
       </div>
     </div>
